@@ -41,6 +41,7 @@ Change to the "MyLab" directory and create an empty text file named "MyFile.txt"
 ## COMMAND AND OUTPUT
 
 cd %userprofile%\Desktop\MyLab
+
 ![image](https://github.com/Pooja-sri45/Windows-basic-commands-batchscript/assets/147081893/67a009f1-b4d6-4356-b87f-15dc157396be)
 
 
